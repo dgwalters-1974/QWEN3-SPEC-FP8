@@ -86,7 +86,7 @@ vllm bench serve \
   --dataset-name hf \
   --dataset-path "$DATASET_PATH" \
   --max-concurrency "$CONCURRENCY" \
-  --num-prompts "$NUM_PROMPTS" \
+  --temperature 0 --num-prompts "$NUM_PROMPTS" \
   | tee "$RESULT_FILE"
 
 echo "[05] done. Saved $RESULT_FILE"

@@ -1,0 +1,50 @@
+[11:16:59] INFO     val/loss_0_epoch=3.071,                       trainer.py:264
+                    val/full_acc_0_epoch=0.393,                                 
+                    val/cond_acc_0_epoch=0.393,                                 
+                    val/loss_1_epoch=4.330,                                     
+                    val/full_acc_1_epoch=0.123,                                 
+                    val/cond_acc_1_epoch=0.294,                                 
+                    val/loss_2_epoch=5.026,                                     
+                    val/full_acc_2_epoch=0.034,                                 
+                    val/cond_acc_2_epoch=0.245,                                 
+                    val/loss_epoch=12.427, epoch=0                              
+[11:18:46] INFO     val/loss_0_epoch=2.640,                       trainer.py:264
+                    val/full_acc_0_epoch=0.447,                                 
+                    val/cond_acc_0_epoch=0.447,                                 
+                    val/loss_1_epoch=3.902,                                     
+                    val/full_acc_1_epoch=0.164,                                 
+                    val/cond_acc_1_epoch=0.346,                                 
+                    val/loss_2_epoch=4.645,                                     
+                    val/full_acc_2_epoch=0.056,                                 
+                    val/cond_acc_2_epoch=0.297,                                 
+                    val/loss_epoch=11.187, epoch=1                              
+[11:20:34] INFO     val/loss_0_epoch=2.548,                       trainer.py:264
+                    val/full_acc_0_epoch=0.458,                                 
+                    val/cond_acc_0_epoch=0.458,                                 
+                    val/loss_1_epoch=3.816,                                     
+                    val/full_acc_1_epoch=0.175,                                 
+                    val/cond_acc_1_epoch=0.358,                                 
+                    val/loss_2_epoch=4.581,                                     
+                    val/full_acc_2_epoch=0.063,                                 
+                    val/cond_acc_2_epoch=0.310,                                 
+                    val/loss_epoch=10.945, epoch=2                              
+[11:22:21] INFO     val/loss_0_epoch=2.545,                       trainer.py:264
+                    val/full_acc_0_epoch=0.460,                                 
+                    val/cond_acc_0_epoch=0.460,                                 
+                    val/loss_1_epoch=3.818,                                     
+                    val/full_acc_1_epoch=0.177,                                 
+                    val/cond_acc_1_epoch=0.361,                                 
+                    val/loss_2_epoch=4.589,                                     
+                    val/full_acc_2_epoch=0.065,                                 
+                    val/cond_acc_2_epoch=0.319,                                 
+                    val/loss_epoch=10.953, epoch=3                              
+[11:24:08] INFO     val/loss_0_epoch=2.517,                       trainer.py:264
+                    val/full_acc_0_epoch=0.464,                                 
+                    val/cond_acc_0_epoch=0.464,                                 
+                    val/loss_1_epoch=3.781,                                     
+                    val/full_acc_1_epoch=0.182,                                 
+                    val/cond_acc_1_epoch=0.365,                                 
+                    val/loss_2_epoch=4.553,                                     
+                    val/full_acc_2_epoch=0.069,                                 
+                    val/cond_acc_2_epoch=0.324,                                 
+                    val/loss_epoch=10.852, epoch=4                              
