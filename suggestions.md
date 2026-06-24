@@ -60,8 +60,9 @@ per token (plus auxiliary tensors). Roughly:
 - text: ~2–4 bytes / token
 - hidden states: ~3 layers × 4096 × 2 bytes ≈ **~24 KB / token**
 
-That's a ~1000× expansion. Across 3000 samples × ~2048 tokens × ~24 KB ≈ **~140 GB**,
-which matches the homework's warning. You're trading disk for not recomputing the verifier
+That's roughly a **~6,000× expansion** (24 KB vs a few bytes per token: 24,000 ÷ 4 ≈ 6,000).
+Across 3000 samples × ~2048 tokens × ~24 KB ≈ **~140 GB** (we measured ~122 GB on the box),
+matching the homework's warning. You're trading disk for not recomputing the verifier
 forward pass during training (the whole point of *offline* EAGLE-3).
 
 ---
